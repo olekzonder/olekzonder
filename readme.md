@@ -2,4 +2,4 @@ Hi!
 
 ![](pic.jpg#center)
 
-It's me on the picture! Don't believe me? Too bad!
+It's me in the picture! Don't believe me? Too bad!
