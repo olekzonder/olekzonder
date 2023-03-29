@@ -1,11 +1,19 @@
-Hi!
+# Hello!
+
+Look at this wacky picture I've found on the Internet
 
 ![](pic.jpg#center)
 
-It's me in the picture! Don't believe me? Too bad!
+## Languages and Tools
 
-I dunno what to add, so here are the stats no one cares about:
+### Love
+
+Python, R, Golang, PostgreSQL, Docker, Linux, Shell scripting, MongoDB, Redis, Git, Ansible
+
+### Okay with
+
+C, C++, C#, SQL Server, MySQL, Neo4j, BSD, Kubernetes
+
+## Stats no one cares about
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=olekzonder&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olekzonder)
